@@ -1,0 +1,6 @@
+[submodule "external/UniRig"]
+	path = external/UniRig
+	url = https://github.com/VAST-AI-Research/UniRig.git
+[submodule "external/DigiHuman"]
+	path = external/DigiHuman
+	url = https://github.com/Danial-Kord/DigiHuman.git
